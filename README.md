@@ -64,7 +64,7 @@ Different features are supported by this app, a brief overview you'll find here.
   - grind amount
   - brew time
   - first coffee drip
-  - images 
+  - images
   - etc.
 - Manage your own workflow, first grind amount, then grind size? No problem
 - Archive old beans / grinders / preparation methods
@@ -74,7 +74,7 @@ Different features are supported by this app, a brief overview you'll find here.
 - Own water section
 - Cup your brews by aromatics or flavors
 - Connect smart scales (Decent Scale, Acaia Lunar, Hiroia Jimmy)
- 
+
 
 ## Special thanks
 
@@ -82,7 +82,7 @@ Different features are supported by this app, a brief overview you'll find here.
 - Frank for translating the app into spanish.
 
 ## Getting the App
-The App is a cross platform application, running on the ionic framework. 
+The App is a cross platform application, running on the ionic framework.
 
 
 ### Android
@@ -149,7 +149,7 @@ The app needs access to your filesystem aswell as the camera
 
 ## Development & Building it yourself
 
-If you're not familiar with Ionic or Cordova [read through the introduction](http://ionicframework.com/docs/intro/installation/).  
+If you're not familiar with Ionic or Cordova [read through the introduction](http://ionicframework.com/docs/intro/installation/).
 To get started with anything you need [Node.js](https://nodejs.org/en/download/) installed
 
 
